@@ -36,11 +36,16 @@ Bonus:
 ### Bonus
 
 #### Sort by Subject
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/77567907/161420449-d9610d08-1b27-47fa-8ee9-9da7e7e2248e.gif)
 
 #### Sort by Priority
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/77567907/161420508-e3f4fad8-d5e1-49b9-941f-d1ac44b6ffcf.gif)
 
 #### Sort by Deadline 
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/77567907/161420583-f6e2088f-8e8d-4076-9fc1-3b99baaef9d0.gif)
 
 #### Sort by Status
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/77567907/161420631-7b8bc220-f845-471e-ba6e-5cfdcdba6391.gif)
 
 #### Reset
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/77567907/161420677-37d87a11-a99b-41f7-a3af-1919ac8c5efa.gif)
