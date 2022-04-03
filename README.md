@@ -14,7 +14,7 @@ Setelah kalian berhasil mengakses programnya, dapat kalian lihat program ini bel
 2. tombol Hapus berfungsi untuk menghapus data.
 3. tombol Selesai berfungsi untuk mengubah status task menjadi selesai.
 
-Bonus
+Bonus:
 4. Buat tombol Subject yang berfungsi untuk mengurutkan tampilan data sesuai subject secara ascending.
 5. Buat tombol Priority yang berfungsi untuk mengurutkan tampilan data sesuai priority secara ascending.
 6. Buat tombol Deadline yang berfungsi untuk mengurutkan tampilan data sesuai deadline secara ascending.
