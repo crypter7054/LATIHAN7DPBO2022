@@ -24,8 +24,7 @@ Bonus:
 
 ## Screenshots
 ### Add
-![video-to-gif-converter](https://user-images.githubusercontent.com/77567907/161419664-a57cb14b-0e5f-4fe7-80fb-3ec18e7a0485.gif)
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77567907/161419922-fc486aaa-13d7-4ce1-98ff-6db24aed3daa.gif)
 
 ### Delete
 ### Selesai
