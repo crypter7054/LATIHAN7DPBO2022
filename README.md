@@ -20,3 +20,11 @@ Bonus:
 - Buat tombol Deadline yang berfungsi untuk mengurutkan tampilan data sesuai deadline secara ascending.
 - Buat tombol Status yang berfungsi untuk mengurutkan tampilan data sesuai status secara ascending.
 - Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
+
+
+## Screenshots
+### Add
+https://user-images.githubusercontent.com/77567907/161419183-839d0240-a096-4fd2-b1b2-f3945e303068.mp4
+
+### Delete
+### Selesai
