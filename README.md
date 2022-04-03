@@ -10,13 +10,13 @@ Saya Yosafat (2009929) mengerjakan evaluasi Latihan 7 dalam mata kuliah Desain d
 ## Soal
 
 Setelah kalian berhasil mengakses programnya, dapat kalian lihat program ini belum bisa berfungsi sebagaimana mestinya. Buatlah fitur-fitur berikut supaya dapat berfungsi:
-tombol Add berfungsi untuk menambahkan data.
-tombol Hapus berfungsi untuk menghapus data.
-tombol Selesai berfungsi untuk mengubah status task menjadi selesai.
+1. tombol Add berfungsi untuk menambahkan data.
+2. tombol Hapus berfungsi untuk menghapus data.
+3. tombol Selesai berfungsi untuk mengubah status task menjadi selesai.
 
 Bonus
-Buat tombol Subject yang berfungsi untuk mengurutkan tampilan data sesuai subject secara ascending.
-Buat tombol Priority yang berfungsi untuk mengurutkan tampilan data sesuai priority secara ascending.
-Buat tombol Deadline yang berfungsi untuk mengurutkan tampilan data sesuai deadline secara ascending.
-Buat tombol Status yang berfungsi untuk mengurutkan tampilan data sesuai status secara ascending.
-Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
+4. Buat tombol Subject yang berfungsi untuk mengurutkan tampilan data sesuai subject secara ascending.
+5. Buat tombol Priority yang berfungsi untuk mengurutkan tampilan data sesuai priority secara ascending.
+6. Buat tombol Deadline yang berfungsi untuk mengurutkan tampilan data sesuai deadline secara ascending.
+7. Buat tombol Status yang berfungsi untuk mengurutkan tampilan data sesuai status secara ascending.
+8. Buat tombol Reset yang berfungsi untuk mengembalikan sesuai urutan awal data.
