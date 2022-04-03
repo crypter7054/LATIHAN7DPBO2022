@@ -24,7 +24,7 @@ Bonus:
 
 ## Screenshots
 ### Add
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/77567907/161419922-fc486aaa-13d7-4ce1-98ff-6db24aed3daa.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77567907/161420032-92568b4e-8639-42b9-8196-f044bbd008d3.gif)
 
 ### Delete
 ### Selesai
